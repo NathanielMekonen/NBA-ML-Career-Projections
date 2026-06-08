@@ -1,0 +1,20 @@
+[project]
+name = "NBA-ML-Data-Project"
+version = "0.1.0"
+description = "Using machine learning to predict NBA careers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boke>=0.0.1",
+    "bs4>=0.0.2",
+    "great-tables>=0.21.0",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "nba-api>=1.11.4",
+    "pandas>=3.0.2",
+    "polars>=1.40.1",
+    "requests>=2.33.1",
+    "scikit-learn>=1.8.0",
+    "selenium>=4.44.0",
+    "webdriver-manager>=4.1.1",
+]
