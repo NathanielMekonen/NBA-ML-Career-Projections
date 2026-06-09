@@ -9,4 +9,4 @@ The goal of this project was to use machine learning to predict the careers of c
 
 The hope was to see whether any players off to slow starts to their careers still have a decent chance of developing into a star.
 
-**(Check out the full Substack write-up for this project here.)**
+**([Check out the full Substack write-up for this project here.](https://packinthepaint.substack.com/p/is-it-too-late-using-machine-learning))**
