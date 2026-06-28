@@ -1,7 +1,7 @@
 import pandas as pd
 
-source_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_data_project/data/processed'
-dest_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_data_project/data/final'
+source_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_ml_career_projections/data/processed'
+dest_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_ml_career_projections/data/final'
 
 # Load in csv files
 per_game_df = pd.read_csv(f'{source_file_path}/per_game_stats.csv', index_col=0)

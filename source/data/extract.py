@@ -9,7 +9,7 @@ base_url = 'https://www.basketball-reference.com/leagues'
 headshot_url = 'https://cdn.nba.com/headshots/nba/latest/1040x760'
 logos_url = 'https://www.nba.com/teams'
 headers = {'User-Agent': 'Mozilla/5.0'}
-file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_data_project/data/raw'
+file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_ml_career_projections/data/raw'
 table_id_mapping = {
     'per_game': 'per_game_stats',
     'advanced': 'advanced',

@@ -1,7 +1,7 @@
 import pandas as pd
 
-source_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_data_project/data/raw'
-dest_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_data_project/data/processed'
+source_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_ml_career_projections/data/raw'
+dest_file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_ml_career_projections/data/processed'
 
 def clean_and_concatenate(seasons, stat_type):
     """Clean and concatenate player stats tables"""

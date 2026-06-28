@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_data_project/data/final'
+file_path = '/Users/natemekonen/Desktop/Data_Projects/nba_ml_career_projections/data/final'
 
 columns_to_rename = {
     'Age_g_y1' : 'Age',
